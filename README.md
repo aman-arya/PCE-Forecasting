@@ -1,4 +1,4 @@
-# US Personal Consumption Expenditures – Forecasting Comparison (Assignment Part 2)
+# US Personal Consumption Expenditures – Forecasting Comparison 
 
 Welcome!  
 This repository documents the workflow and code for **Part 2** of the assignment, where we evaluate and compare three forecasting approaches on the **seasonally-adjusted US Personal Consumption Expenditures (PCE)** time series.
